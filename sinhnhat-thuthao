@@ -549,9 +549,9 @@ button{font:inherit}
 const Q=new URLSearchParams(location.search);
 const DIR='meng-to-sketchbook/';
 const PAGES=[
-  {file:'marina-bay-sands.png',   title:'Marina Bay Sands',          place:'Bayfront'},
-  {file:'gardens-by-the-bay.png', title:'Gardens by the Bay',        place:'Supertree Grove'},
-  {file:'merlion.png',            title:'The Merlion',               place:'Merlion Park'},
+  {file:'1.png',   title:'Marina Bay Sands',          place:'Bayfront'},
+  {file:'2.png', title:'Gardens by the Bay',        place:'Supertree Grove'},
+  {file:'3.png',            title:'The Merlion',               place:'Merlion Park'},
   {file:'buddha-tooth.png',       title:'Buddha Tooth Relic Temple', place:'Chinatown'},
   {file:'joo-chiat.png',          title:'Joo Chiat Shophouses',      place:'Katong'},
   {file:'lau-pa-sat.png',         title:'Lau Pa Sat',                place:'Raffles Quay'},
